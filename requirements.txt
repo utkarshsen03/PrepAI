@@ -1,0 +1,17 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+langgraph
+pymupdf
+langchain
+langchain.community
+pydantic
+langchain-groq
+python-dotenv
+pyodbc
+PyPDF2
+redis
+openpyxl
+pandas
